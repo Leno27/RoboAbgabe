@@ -12,7 +12,7 @@ Um die Packages zu nutzen müssen Sie dieses Repository auf Ihr Gerät klonen, e
 
 
 ##  Anmerkung zur 1. Belegaufgabe (PubSub)
-Für diese Aufgabe müssen Sie ```ros2 run timing_tubaf_cpp talker``` in einer Konsole ausführen. In einer anderen Konsole müssen Sie "ros2 run timing_tubaf_py listener" ausführen.
+Für diese Aufgabe müssen Sie ```ros2 run timing_tubaf_cpp talker``` in einer Konsole ausführen. In einer anderen Konsole müssen Sie ```ros2 run timing_tubaf_py listener``` ausführen.
 
 ## Anmerkung zur 2. Belegaufgabe (LaserFollow)
 Für diese Aufgabe müssen Sie ```ros2 run laser_follow drive_with_laserscanner``` in der Konsole ausführen.
